@@ -82,7 +82,7 @@ I enjoy turning raw data into meaningful insights that support business and tech
 
 ### 🔗 Connect With Me
 <p align="center">
-  <a href="https://github.com/your-github-username">GitHub</a> •
+  <a href="https://github.com/arkamrit">GitHub</a> •
   <a href="https://www.linkedin.com/in/amrit-raj117/">LinkedIn</a> •
   <a href="mailto:aamritraj117@gmail.com">Email</a>
 </p>
